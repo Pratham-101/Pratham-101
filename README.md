@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React native , ML**
 
-- 👨‍💻 All of my projects are available at [https://pratham-chintrate.vercel.app/](https://pratham-chintrate.vercel.app/)
+
 
 - 💬 Ask me about **MERN , Web Development**
 
 - 📫 How to reach me **prathamchintrate@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PDN2sggxnvugnqN6tX5_ae0p991Lrtq_/view](https://drive.google.com/file/d/1PDN2sggxnvugnqN6tX5_ae0p991Lrtq_/view)
+
 
 - ⚡ Fun fact **My code and I have a love-hate relationship—mostly love, until it breaks... then it's complicated.**
 
